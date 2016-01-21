@@ -1,0 +1,38 @@
+{
+  "name": "angular-ui-grid-patched",
+  "description": "A data grid for Angular - patched by Tim Mouradian",
+  "main": [
+    "./less",
+    "./ui-grid.css",
+    "./ui-grid.eot",
+    "./ui-grid.js",
+    "./ui-grid.svg",
+    "./ui-grid.ttf",
+    "./ui-grid.woff"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "angular": ">=1.2.16 1.4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmouradian/angular-ui-grid-filter.git"
+  },
+  "homepage": "https://github.com/tmouradian/angular-ui-grid-filter",
+  "bugs": {
+    "url": "https://github.com/tmouradian/angular-ui-grid-filter/issues"
+  },
+  "keywords": [
+    "angular",
+    "ng-grid",
+    "nggrid",
+    "grid",
+    "angularjs",
+    "slickgrid",
+    "kogrid",
+    "ui-grid",
+    "ui grid",
+    "data grid"
+  ],
+  "license": "MIT"
+}
